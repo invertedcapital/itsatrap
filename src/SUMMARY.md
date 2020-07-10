@@ -1,3 +1,6 @@
 # Summary
 
-- [Chapter 1](./chapter_1.md)
+[Preface](./1_preface.md)
+
+
+[Contributors](./contributors.md)
