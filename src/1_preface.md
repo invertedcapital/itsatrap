@@ -9,7 +9,7 @@ The truth is, mistakes help us learn. Learning from others will help you succeed
 
 ### What was the biggest mistake you made as a founder?
 
-### What was the prelude leading up to that mistake?
+### What lead up to that mistake?
 
 ### What was the outcome?
 
